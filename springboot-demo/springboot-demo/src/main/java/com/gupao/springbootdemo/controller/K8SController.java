@@ -13,7 +13,7 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        System.out.println("hello ##eeeeeeeeee33333333##world.......");
+        System.out.println("hello ##eeeeeeeeee33333.......");
         return "hello K8s <br/>111222 ";
     }
 }
